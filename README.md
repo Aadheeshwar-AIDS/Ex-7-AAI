@@ -1,6 +1,7 @@
 <H3>NAME:Aadheeshwar A</H3>
 <H3>REGISTER NUMBER:212221230001</H3>
 <H3>EX. NO.7</H3>
+<H3>DATE:27-04-2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
